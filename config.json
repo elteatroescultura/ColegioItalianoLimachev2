@@ -20,7 +20,7 @@
     "notifications_enabled": true,
     "gcmpn": "694767596569"
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://app.centropromos.cl",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "true",
